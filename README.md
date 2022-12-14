@@ -1,2 +1,2 @@
 # monolit_mo
-an example for illustration
+a monolitic example for illustration
